@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Default Dark+",
+		"workbench.iconTheme": "material-icon-theme",
+		"workbench.activityBar.visible": true,
+		"workbench.statusBar.visible": true
+	}
+}
